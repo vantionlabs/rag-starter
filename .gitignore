@@ -1,0 +1,26 @@
+# env
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+backend/celerybeat-schedule*
+
+# node
+node_modules/
+.next/
+*.tsbuildinfo
+next-env.d.ts
+
+# os / editors
+.DS_Store
+.idea/
+.vscode/
+
+# eval reports are per run
+backend/evals/reports/
