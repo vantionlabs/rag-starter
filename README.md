@@ -1,4 +1,28 @@
-# RAG starter
+<p align="center">
+  <a href="https://vantion.co">
+    <img src="https://raw.githubusercontent.com/vantionlabs/.github/main/profile/banner.png" alt="Vantion Labs" width="100%" />
+  </a>
+</p>
+
+<h1 align="center">RAG starter</h1>
+
+<p align="center">
+  <b>Document Q&A that answers only from your documents.</b><br />
+  Event-driven ingestion, hybrid retrieval, and citations checked before they reach a user.
+</p>
+
+<p align="center">
+  <a href="https://github.com/vantionlabs/rag-starter/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/vantionlabs/rag-starter/actions/workflows/ci.yml/badge.svg" /></a>
+  <a href="https://www.python.org"><img alt="python 3.12" src="https://img.shields.io/badge/python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://fastapi.tiangolo.com"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a>
+  <a href="https://github.com/pgvector/pgvector"><img alt="pgvector" src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
+  <a href="https://nextjs.org"><img alt="Next.js 16" src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://docs.celeryq.dev"><img alt="Celery + Redis" src="https://img.shields.io/badge/Celery_+_Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></a>
+  <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/licence-MIT-f4f4f6?style=flat-square" /></a>
+  <a href="https://vantion.co"><img alt="Vantion Labs" src="https://img.shields.io/badge/by-Vantion_Labs-2233f0?style=flat-square" /></a>
+</p>
+
+---
 
 A production-shaped retrieval-augmented generation app from
 [Vantion Labs](https://vantion.co). Users upload documents, a background
