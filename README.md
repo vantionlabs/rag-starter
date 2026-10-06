@@ -153,5 +153,4 @@ worker (one image, two start commands), and the frontend. See
 
 ## Licence
 
-MIT. See [LICENSE](LICENSE). Built by [Vantion Labs](https://vantion.co);
-if you want help putting it into production, [talk to the founder](https://vantion.co/book-a-call).
+MIT. See [LICENSE](LICENSE). Built by [Vantion Labs](https://vantion.co).
