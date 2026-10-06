@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://vantion.co">
     <img src="https://raw.githubusercontent.com/vantionlabs/.github/main/profile/banner.png" alt="Vantion Labs" width="100%" />
-  </a>
 </p>
 
 <h1 align="center">RAG starter</h1>
@@ -19,13 +17,13 @@
   <a href="https://nextjs.org"><img alt="Next.js 16" src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
   <a href="https://docs.celeryq.dev"><img alt="Celery + Redis" src="https://img.shields.io/badge/Celery_+_Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></a>
   <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/licence-MIT-f4f4f6?style=flat-square" /></a>
-  <a href="https://vantion.co"><img alt="Vantion Labs" src="https://img.shields.io/badge/by-Vantion_Labs-2233f0?style=flat-square" /></a>
+  <img alt="Vantion Labs" src="https://img.shields.io/badge/by-Vantion_Labs-2233f0?style=flat-square" />
 </p>
 
 ---
 
 A production-shaped retrieval-augmented generation app from
-[Vantion Labs](https://vantion.co). Users upload documents, a background
+Vantion Labs. Users upload documents, a background
 pipeline chunks and embeds them, and a chat answers **only** from those
 documents, with citations that are checked before anything reaches the user.
 
@@ -153,4 +151,4 @@ worker (one image, two start commands), and the frontend. See
 
 ## Licence
 
-MIT. See [LICENSE](LICENSE). Built by [Vantion Labs](https://vantion.co).
+MIT. See [LICENSE](LICENSE). Built by Vantion Labs.
